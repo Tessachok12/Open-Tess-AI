@@ -37,7 +37,7 @@ python core.py
 
 | Плагин | Описание | Автор |
 |--------|----------|-------|
-| [dictionary_and_templates](в папке plugins) | Генерация ответов из словаря | от меня |
+| dictionary_and_templates (в папке plugins) | Генерация ответов из словаря | от меня |
 
 
 ### Готовый плагин: `dictionary_and_templates`
